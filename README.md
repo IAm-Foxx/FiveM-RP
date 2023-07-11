@@ -1,18 +1,18 @@
 # FiveM-RP
 
-Commands:\n\n
+Commands:<br>
 
-/911 [road] [reason]\n
-e.g. /911 Joshua Car Crash\n\n
+<b>/911 [road] [reason]<br></b>
+e.g. /911 Joshua Car Crash<br>
 
-/me [action]\n
-e.g. /me hands cash\n\n
+<b>/me [action]<br></b>
+e.g. /me hands cash<br>
 
-/do [action]\n
-e.g. /me hangs coat\n\n
+<b>/do [action]<br></b>
+e.g. /me hangs coat<br>
 
-/try [action]\n
-e.g. /try picklocking door\n\n
+<b>/try [action]<br></b>
+e.g. /try picklocking door<br>
 
-/showid\n
+<b>/showid<br></b>
 e.g. /showid
